@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://johnjayvee.github.io/reactActivity",
+  "homepage": "https://johnjayvee.github.io/reactActivity/public",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
